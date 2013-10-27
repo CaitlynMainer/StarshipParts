@@ -112,7 +112,7 @@
 
 		<!-- Copy resources -->
 		<copy todir="${classes.dir}/assets/neo_starshipparts">
-			<fileset dir="assets/gcewing.lighting" />
+			<fileset dir="assets/neo_starshipparts" />
 		</copy>
 		
 		<!-- Copy resources -->
