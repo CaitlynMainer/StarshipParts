@@ -106,7 +106,7 @@
 		</exec>
 
 		<!-- Copy classes -->
-		<copy todir="${classes.dir}/gcewing">
+		<copy todir="${classes.dir}/neo_starshipparts">
 			<fileset dir="${mcp.dir}/reobf/minecraft/neo_starshipparts" />
 		</copy>
 
